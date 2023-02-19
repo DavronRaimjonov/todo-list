@@ -1,0 +1,13 @@
+.app {
+  height: 100vh;
+  background-color: #363f4f;
+  padding-top: 50px;
+  &_title {
+    padding-bottom: 25px;
+    h1 {
+      font-size: 22px;
+      font-weight: 600;
+      color: #5b6575;
+    }
+  }
+}
